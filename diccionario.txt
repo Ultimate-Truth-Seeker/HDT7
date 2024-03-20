@@ -1,0 +1,7 @@
+(name, nombre)
+(hello, hola)
+(goodbye, adios)
+(association, asociación)
+(i, yo)
+(question, pregunta)
+(is, es)
